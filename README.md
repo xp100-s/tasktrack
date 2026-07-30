@@ -4,7 +4,7 @@ The installer was made with inno setup.  \
 It saves data in saved.json.  \
 Doesn't have any subscriptions or online servers.  \
 Open Source!  \
-BUT Windows SmartScreen doesn't like it :(
+Antiviruses might trigger, because this app doesn't have a signature.
 
 What can you do: 
 1. Add tasks using the text box on the top

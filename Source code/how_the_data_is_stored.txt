@@ -1,0 +1,14 @@
+Save data is stored in saved.json, which sits next to the main app.
+The file structure looks like this(after # there will be a comment, whitch are not included in actual data):
+{
+    "tasksd": [ #where the tasks are stored. this is here in case i add settings
+        {
+            "task": "eat" 
+            "done": true #used for status
+        },
+        {
+            "task": "code"
+            "done": false
+        }
+    ]
+} #save data is stored with utf-8, so tasks written not in english shouldnt break the app
